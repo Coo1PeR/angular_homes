@@ -18,3 +18,13 @@
 - Run the application 
 
   `ng serve`
+  
+- Install json-server from npm
+
+  `npm install -g json-server`
+
+- Run json-server
+
+  `json-server --watch db.json`
+
+  
